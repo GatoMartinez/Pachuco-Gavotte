@@ -1,0 +1,54 @@
+      Analytic eigenvalue     Program's eigenvalue
+            9.7050509e+00            9.7050509e+00
+     Analytic eigenvector    Program's eigenvector
+            2.3192061e-01           -2.3192061e-01
+            4.1790651e-01           -4.1790651e-01
+            5.2112089e-01           -5.2112089e-01
+            5.2112089e-01           -5.2112089e-01
+            4.1790651e-01           -4.1790651e-01
+            2.3192061e-01           -2.3192061e-01
+      Analytic eigenvalue     Program's eigenvalue
+            3.6897999e+01            3.6897999e+01
+     Analytic eigenvector    Program's eigenvector
+            4.1790651e-01           -4.1790651e-01
+            5.2112089e-01           -5.2112089e-01
+            2.3192061e-01           -2.3192061e-01
+           -2.3192061e-01            2.3192061e-01
+           -5.2112089e-01            5.2112089e-01
+           -4.1790651e-01            4.1790651e-01
+      Analytic eigenvalue     Program's eigenvalue
+            7.6192948e+01            7.6192948e+01
+     Analytic eigenvector    Program's eigenvector
+            5.2112089e-01            5.2112089e-01
+            2.3192061e-01            2.3192061e-01
+           -4.1790651e-01           -4.1790651e-01
+           -4.1790651e-01           -4.1790651e-01
+            2.3192061e-01            2.3192061e-01
+            5.2112089e-01            5.2112089e-01
+      Analytic eigenvalue     Program's eigenvalue
+            1.1980705e+02            1.1980705e+02
+     Analytic eigenvector    Program's eigenvector
+            5.2112089e-01           -5.2112089e-01
+           -2.3192061e-01            2.3192061e-01
+           -4.1790651e-01            4.1790651e-01
+            4.1790651e-01           -4.1790651e-01
+            2.3192061e-01           -2.3192061e-01
+           -5.2112089e-01            5.2112089e-01
+      Analytic eigenvalue     Program's eigenvalue
+            1.5910200e+02            1.5910200e+02
+     Analytic eigenvector    Program's eigenvector
+            4.1790651e-01            4.1790651e-01
+           -5.2112089e-01           -5.2112089e-01
+            2.3192061e-01            2.3192061e-01
+            2.3192061e-01            2.3192061e-01
+           -5.2112089e-01           -5.2112089e-01
+            4.1790651e-01            4.1790651e-01
+      Analytic eigenvalue     Program's eigenvalue
+            1.8629495e+02            1.8629495e+02
+     Analytic eigenvector    Program's eigenvector
+            2.3192061e-01           -2.3192061e-01
+           -4.1790651e-01            4.1790651e-01
+            5.2112089e-01           -5.2112089e-01
+           -5.2112089e-01            5.2112089e-01
+            4.1790651e-01           -4.1790651e-01
+           -2.3192061e-01            2.3192061e-01
